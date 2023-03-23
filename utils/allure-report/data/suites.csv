@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 20 18:00:13 CST 2023","Mon Mar 20 18:00:13 CST 2023","0","testcases","test_demo","","","","test_parameterize_with_id[1]",""
+"passed","Mon Mar 20 18:00:13 CST 2023","Mon Mar 20 18:00:13 CST 2023","0","testcases","test_demo","","","","test_parametrize_with_two_parameters[1-False]",""
+"passed","Mon Mar 20 18:00:13 CST 2023","Mon Mar 20 18:00:13 CST 2023","0","testcases","test_demo","","","","test_parametrize_with_two_parameters[2-True]",""
+"passed","Mon Mar 20 18:00:13 CST 2023","Mon Mar 20 18:00:13 CST 2023","0","testcases","test_demo","","","","test_parameterize_with_id[2]",""
+"passed","Mon Mar 20 18:00:13 CST 2023","Mon Mar 20 18:00:13 CST 2023","0","testcases","test_demo","","","","test_parametrize_with_two_parameters[2-False]",""
+"passed","Mon Mar 20 18:00:13 CST 2023","Mon Mar 20 18:00:13 CST 2023","0","testcases","test_demo","","","","test_parametrize_with_two_parameters[1-True]",""
